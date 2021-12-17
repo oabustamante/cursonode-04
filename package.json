@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "yargs": "^17.3.0"
+  },
+  "name": "04-bases-node",
+  "version": "0.0.1",
+  "description": "Tabla de multiplicar con archivos de texto",
+  "main": "app.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "base3": "node app --base 3"
+  },
+  "author": "Orlando Bustamante",
+  "license": "MIT"
+}
